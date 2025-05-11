@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @crimson-cs
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning more python
-- 💞️ I’m looking to collaborate on a new project called only retro rec room here
-- 📫 How to reach me discord : ._crimsoncodes_.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im a femboy
+working on stuff maybe
